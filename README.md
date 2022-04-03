@@ -2,6 +2,13 @@
 
 Made With : Flutter
 
+Screenshot :  
+<p align="center">
+<a href="url">
+  <img src="https://github.com/AkshaySiddannavar/Intro_Card/blob/main/assets/images/Intro_Card%20SS_1.jpeg" width="360" height="756">
+</a>
+</p>
+
 - What the project does  
 It shows a screen with a :
   - Picture
@@ -17,7 +24,6 @@ You can :
 1. Fork it (optional) 🍴
 2. Clone it 
 3. Start Editing 💻
-
 
 - Where users can get help with your project  
 
